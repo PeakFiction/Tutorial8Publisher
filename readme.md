@@ -7,3 +7,5 @@ The presence of the url "amqp://guest:guest@localhost:5672" in both the subscrib
 ## Screenshots
 
 <img width="1470" alt="Screenshot 2024-04-23 at 21 56 06" src="https://github.com/PeakFiction/Tutorial8Publisher/assets/112671939/30557a9f-fbd7-4b1c-b9bb-47b0807f5cbe">
+
+<img width="1258" alt="Screenshot 2024-04-23 at 22 02 43" src="https://github.com/PeakFiction/Tutorial8Publisher/assets/112671939/25f60b5d-857b-4a6b-b11a-f405d70d23d1">
